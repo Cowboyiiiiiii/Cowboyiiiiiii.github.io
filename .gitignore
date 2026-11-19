@@ -1,0 +1,9 @@
+# Private job-search files never belong in this public repo
+tracker.csv
+answers.md
+profile.md
+CONSOLE.md
+*Resume_A.pdf
+*Resume_B.pdf
+CV_original*
+__pycache__/
